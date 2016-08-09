@@ -4,7 +4,7 @@ $url = 'https://api.sendgrid.com/';
 $user = 'huapayadevan';
 $pass = 'Kyubey69';
 if($_POST["toAddress"] == ""){
-	$toAddress = "huapayadevan@gmail.com";
+	$toAddress = "cs14btech11037@iith.ac.in";
 }
 else{
 	$toAddress = $_POST["toAddress"];
